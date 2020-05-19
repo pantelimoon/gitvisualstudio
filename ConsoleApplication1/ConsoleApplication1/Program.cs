@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //code edited in github 1
+
+            //call feature2
         }
     }
 }
