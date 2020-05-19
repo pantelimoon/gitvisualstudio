@@ -9,10 +9,8 @@ namespace ConsoleApplication1
     class Feature1
     {
         ///asdasdasd
-        public int Add()
+        public int Add(int i, int j)
         {
-            int i = 1;
-            int j = 2;
             return i + j;
         }
     }
